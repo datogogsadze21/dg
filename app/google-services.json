@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493109673949",
+    "project_id": "datogg-650e6",
+    "storage_bucket": "datogg-650e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493109673949:android:d47b83cc852ad5e9e60034",
+        "android_client_info": {
+          "package_name": "com.example.myapplication3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493109673949-kdmgdtv4ckqqulo8729s4n8spsq74igu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7qr5nk9Btq-CZh7G2JZSLQcpk88zqAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493109673949-kdmgdtv4ckqqulo8729s4n8spsq74igu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
